@@ -5,7 +5,7 @@ Este repositorio contiene ejercicios prácticos sobre funciones en JavaScript, i
 ## Cómo usar
 
 1. Clona o descarga este repositorio.
-2. Abre `https://magicux.github.io/desafio3_funcionesJS/` en tu navegador para acceder a los ejercicios.
+2. Abre https://magicux.github.io/desafio3_funcionesJS en tu navegador para acceder a los ejercicios.
 3. Explora cada ejercicio desde los enlaces de la página principal.
 
 
